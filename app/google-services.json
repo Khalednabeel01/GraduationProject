@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "1079443488727",
+    "firebase_url": "https://carshazem-2ae19.firebaseio.com",
+    "project_id": "carshazem-2ae19",
+    "storage_bucket": "carshazem-2ae19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079443488727:android:2ab17a2a200eb6ff",
+        "android_client_info": {
+          "package_name": "com.example.osos.apprecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079443488727-su5i529j5q4kb9o7pelr7r4tf44j3rg1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.osos.apprecycler",
+            "certificate_hash": "d1f7bfaf423d4c6cb155edbd5885bf92a632808d"
+          }
+        },
+        {
+          "client_id": "1079443488727-6q9eo4q0us9si3s5u2l2qdt7dcurokok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbSGbBJFkFT8NfKRJmAFg7LqHdddKdEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
